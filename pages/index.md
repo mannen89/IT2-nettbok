@@ -1,30 +1,26 @@
 # IT2 - 2023/2024
 
-## Denne uken
+## Denne uken - Arbeid med mappeinnlevering
 
-- Kalenderuke: 5
-- IT-uke: 19
-- Ukens fagstoff: [Plotting](/databehandling-og-algoritmer/plotting) og Flask (kommer..)
-- Tema: [Databehandling og algoritmer](/databehandling-og-algoritmer)
-- Ukens oppgaver:
-  - [Øveprøve](/databehandling-og-algoritmer/oveprove)
+- Kalenderuke: 11
+- IT-uke: 24
+- Ukens fagstoff: [Testing](/apputvikling/testing)
+- Tema: Testing og håndtering av feil
+- Ukens oppgaver: [3.13 - 3.16](/apputvikling/testing#oppgaver)
 
-## Forrige uke
+## Forrige uke - Arbeid med mappeinnlevering
 
-- Kalenderuke: 4
-- IT-uke: 18
-- Ukens fagstoff: [Løkker](/databehandling-og-algoritmer/lokker-lister-og-ordboker), [filhåndtering](/databehandling-og-algoritmer/filhandtering) og [større oppgaver](/databehandling-og-algoritmer/storre-oppgaver)
-- Tema: [Databehandling og algoritmer](/databehandling-og-algoritmer)
-- Ukens oppgaver:
-  - Gjør enten 1 eller 2
-    1. [2.9, 2.10 og 2.11](/databehandling-og-algoritmer/lokker-lister-og-ordboker#oppgaver)
-    2. [2.18](/databehandling-og-algoritmer/api#oppgaver)
+- Kalenderuke: 10
+- IT-uke: 23
+- Ukens fagstoff: [Mappe](/mappeinnlevering/mappe) og [tips til vårprosjekt](/mappeinnlevering/varprosjekt)
+- Tema: Mappeinnlevering
+- Ukens oppgaver: Start på vårprosjekt
 
 ## Viktige datoer
 
-| Tirsdag | Torsdag           | Beksrivelse                                                             |
-| ------- | ----------------- | ----------------------------------------------------------------------- |
-| 6. feb  | 8. feb (ny dato!) | Prøve - [Databehandling og algoritmer](/databehandling-og-algoritmer) |
-| 5. apr  | 5. apr            | Mappeinnlevering - Spill og/eller applikasjon                           |
-| 23. apr | 25. apr           | Tentamen                                                                |
-| 31. mai | 31. mai           | Skriftlig eksamen                                                       |
+| Tirsdag | Torsdag | Beksrivelse                                   |
+| ------- | ------- | --------------------------------------------- |
+| 6. feb  | 8. feb  | Prøve - Databehandling og algoritmer          |
+| 23. apr | 25. apr | Tentamen                                      |
+| 10. mai | 10. mai | Mappeinnlevering - Spill og/eller applikasjon |
+| 31. mai | 31. mai | Skriftlig eksamen                             |
